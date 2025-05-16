@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1747356621 source:c:\users\nunes\onedrive\desktop\obi_exercicios\junior\2008\obi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
